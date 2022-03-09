@@ -1,0 +1,120 @@
+{
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/93181719?v=4",
+    "hidden": false
+  },
+  "profile": {
+    "name": "李冬琪",
+    "email": "414520121@qq.com",
+    "mobile": "17854121621",
+    "github": "https://github.com/ApprenticeLi",
+    "zhihu": "",
+    "workExpYear": "3年",
+    "workPlace": "山东济南",
+    "positionTitle": "前端工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": ["2015.09.01", "2019.06.30"],
+      "school": "山东财经大学燕山学院",
+      "major": "本科学历 - 信息管理与信息系统网络工程",
+      "academic_degree": "本科",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [],
+  "workExpList": [
+    {
+      "company_name": "山东顺能网络科技有限公司",
+      "department_name": "产品技术部",
+      "work_time": "2019.02,",
+      "work_desc": "1.医疗行业：打造患者就诊服务一体化，构建医、药、保险、体检商业闭环。\n2.主要业务：医院公众号、小程序、保险、体检、互联网医院。\n3.技术架构：移动端UniApp、Vue,B端React。",
+      "dataIndex": 0
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "HTML 、CSS、JS、TS",
+      "skill_desc": "",
+      "skill_level": 89,
+      "dataIndex": 0
+    },
+    {
+      "skill_name": "vue",
+      "skill_desc": "7+项目经验",
+      "skill_level": 90,
+      "dataIndex": 2
+    },
+    {
+      "skill_name": "Uni-app",
+      "skill_level": 90,
+      "skill_desc": "6+项目经验、框架搭建",
+      "dataIndex": 2
+    },
+    {
+      "skill_name": "React",
+      "skill_desc": "3+项目经验",
+      "skill_level": 70,
+      "dataIndex": 3
+    },
+    {
+      "skill_name": "Git、Nginx、Docker等",
+      "skill_level": 75,
+      "skill_desc": "各种感兴趣的工具使用"
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "山大齐鲁互联网医院",
+      "project_role": "前端核心开发",
+      "project_time": "2022.01 - 至今",
+      "project_desc": "山大齐鲁互联网医院、集线上问诊、线上咨询、处方流转为一体的线上服务平台。采用多种问诊方式：图文、视频、语音。",
+      "project_content": "1.uni-app 2.参与项目从0到1的框架设计和开发 3. 产品体验精雕细琢的打磨 4.问诊咨询核心业务流程开发 5.实时音视频产品的集成开发 ",
+      "dataIndex": 0
+    },
+    {
+      "project_name": "独立互联网医院平台",
+      "project_role": "前端核心开发",
+      "project_time": "2021.12 - 2021.01",
+      "project_desc": "山大齐鲁互联网医院、集线上问诊、线上咨询、处方流转为一体的线上服务平台。采用多种问诊方式：图文、视频、语音。",
+      "project_content": "1.uni-app 1. 参与项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3.问诊咨询核心业务流程开发 4.实时音视频产品的集成开发 ",
+      "dataIndex": 1
+    },
+    {
+      "project_name": "住院电子陪护证",
+      "project_role": "前端核心开发",
+      "project_time": "2021.09 - 2021.11",
+      "project_desc": "电子陪护证小程序，集住院电子证申请、电子陪护证审核、住院（审核员、管理员）管理、扫码出入、体温健康码上报等功能为一体的服务小程序",
+      "project_content": ".uni-app 1. 核心业务流程大部分开发任务 2.出入扫码功能 3. 系统的维护和迭代 ",
+      "dataIndex": 2
+    },
+    {
+      "project_name": "健康体检管理平台",
+      "project_role": "前端核心开发",
+      "project_time": "2021.05 - 2021.08",
+      "project_desc": "健康体检后台管理系统、维护C端页面可配置化功能、体检套餐维护、体检排版号源维护、申请记录、系统功能（用户、组织、字典、权限等）",
+      "project_content": "1.react ant-design-pro B端后台管理 1. 核心业务流程大部分开发任务  ",
+      "dataIndex": 3
+    },
+    {
+      "project_name": "掌上医疗",
+      "project_role": "前端开发",
+      "project_time": "2019.02 - 至今",
+      "project_desc": "医院公众号，含山东众多三家医院，例如山东省立医院、青岛市市立医院、山大齐鲁医院等，挂、缴、查一体服务平台",
+      "project_content": "1. 主要负责互联网医院板块开发维护 2.实时音视频集成开发和维护迭代",
+      "dataIndex": 4
+    }
+  ],
+  "workList": [
+    {
+      "work_name": "前端知识图谱",
+      "work_desc": "构建全面整体的前端系统认知、找寻自己喜欢的前进方向、前端的学习路钱",
+      "visit_link": "https://110108.top/",
+      "dataIndex": 0
+    }
+  ],
+  "aboutme": {
+    "aboutme_desc": "🌱 热爱前端、向往全栈\n😈 能力项：沟通协调能力、执行力\n    自驱型前端工程师，三年多产品开发经验。主要技术栈为Vue、uniapp，react，都有过相应的产品开发经验。\n    "
+  },
+  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
+}
